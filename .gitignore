@@ -1,0 +1,9 @@
+Ignorar arquivos de segredo e cache
+
+poetic-chariot-476818-f5-b6a7fda3268f.json
+
+Opcional, mas recomendado para projetos Python
+
+pycache/
+*.pyc
+.DS_Store
